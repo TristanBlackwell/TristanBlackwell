@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there 👋
+
+I'm Tristan. I am a software developer and university student living near Oxford, UK.
+
+Currently I'm working at **[Zing](https://zing.dev/)** building out communication platforms mainly using the Twilio stack.
+
+If there's something you think I can help you with then get in touch! ✍
 
 <!--
 **TristanBlackwell/TristanBlackwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
