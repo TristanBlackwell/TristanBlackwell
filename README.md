@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm Tristan. I am a software developer and university student living near Oxford, UK.
+I'm Tristan. I am a software developer living near Oxford, UK.
 
 Currently I'm working at **[Zing](https://zing.dev/)** building out communication platforms mainly using the Twilio stack.
 
