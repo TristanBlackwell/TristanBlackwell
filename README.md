@@ -2,7 +2,7 @@
 
 I'm Tristan. I am a software developer living near Oxford, UK.
 
-Currently I'm working at **[Zing](https://zing.dev/)** building out communication platforms mainly using the Twilio stack.
+Currently at **[Signal AI](https://www.signal-ai.com/)**, working on Enterprise Risk Management.
 
 If there's something you think I can help you with then get in touch! ✍
 
